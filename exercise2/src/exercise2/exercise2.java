@@ -25,7 +25,7 @@ public static void main(String[] args) {
 		 System.out.println(20 + -3*5 / 8);
 		 System.out.println(5 + 15 / 3 * 2 - 8 % 3);
 	  
-	 }
+	}
 	 
 	 public static void Exercise2() {
 		 Scanner in = new Scanner(System.in);
@@ -38,7 +38,7 @@ public static void main(String[] args) {
 		   
 		 System.out.println(num1 + " x " + num2 + " = " + num1 * num2);
 		  
-	 }
+	}
 			 
 	 public static void Exercise3() {
 		 Scanner in = new Scanner(System.in);
@@ -60,7 +60,7 @@ public static void main(String[] args) {
 			 
 		 System.out.println(num1 + " mod " + num2 + " = " + (num1 % num2));
 	 
-	 }
+	}
 	 
 	 public static void Exercise4() {
 		 System.out.println(24+26);
@@ -77,7 +77,7 @@ public static void main(String[] args) {
 		 System.out.println("Perimeter is = " + perimeter);
 		 System.out.println("Area is = " + area);
 		 
-    }
+	}
 		 
 	 public static void Exercise6() {
 
@@ -113,7 +113,7 @@ public static void main(String[] args) {
 		    
 		 System.out.println("Average of five numbers is: " + (num1 + num2 + num3 + num4 + num5) / 5);
 		   
-	 }
+	}
 	
 	 public static void Exercise9() {
 
@@ -128,7 +128,7 @@ public static void main(String[] args) {
 
 		 System.out.printf("Area is %.1f * %.1f = %.2f \n", width, height, area);
 		   
-	 }
+	}
 	 
 	  public static void Exercise10() {
 

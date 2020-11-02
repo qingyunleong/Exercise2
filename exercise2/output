@@ -1,0 +1,48 @@
+*****Exercise 1*****
+43
+1
+19
+13
+
+*****Exercise 2*****
+Input first number: 25
+Input second number: 5
+25 x 5 = 125
+
+*****Exercise 3*****
+Input first number: 125
+Input second number: 24
+125 + 24 = 149
+125 - 24 = 101
+125 x 24 = 3000
+125 / 24 = 5
+125 mod 24 = 5
+
+*****Exercise 4*****
+50
+
+*****Exercise 5*****
+Perimeter is = 47.12388980384689
+Area is = 176.71458676442586
+
+*****Exercise 6*****
+2.138888888888889
+
+*****Exercise 7*****
+2.9760461760461765
+
+*****Exercise 8*****
+Input first number: 10
+Input second number: 20
+Input third number: 30
+Input fourth number: 40
+Enter fifth number: 50
+Average of five numbers is: 30
+
+*****Exercise 9*****
+Perimeter is 2*(8.5 + 5.6) = 28.20 
+Area is 5.6 * 8.5 = 47.60 
+
+*****Exercise 10*****
+Before swapping : a, b = 15, 27
+After swapping : a, b = 27, 15
